@@ -31,12 +31,12 @@ Steps to run:
 
 My Team:
 
-Jiya: 2022, 2023, 2024
+Jiya: Analyzed days of poor health and mental health metrics for 2022, 2023, 2024
 
-Nirali: 2021, 2020, 2019
+Nirali: Conducted research on financial barriers of 2021, 2020, 2019
 
-Arya: 2011, 2012, 2013:
+Arya: Distribution of Topicsfor Demographics, Woman's Health, Asthma, Cardiovascular disease, and Physical Activity for years 2011, 2012, 2013
 
-Aditii: 2014, 2015, 2016
+Aditii: Analyzed all the Heath Status Classes and Compared for 2014, 2015, 2016
 
 Nirvi: 2017, 2018
